@@ -1,0 +1,8 @@
+# ignore the following files
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+# test_indices
+# train_indices
+# train_val_indices
+# val_indices
