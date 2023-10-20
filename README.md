@@ -19,7 +19,7 @@ For a comprehensive understanding of the methodology and background, please refe
 
 If you use this code in your research, please cite the original publication:
 
-Bikia, V., Rovas, G., Pagoulatou, S., & Stergiopulos, N. (2021). Determination of aortic characteristic impedance and total arterial compliance from regional pulse wave velocities using machine learning: An in-silico study. Frontiers in bioengineering and biotechnology, 9, 649866.
+Bikia, V., Rovas, G., Pagoulatou, S., & Stergiopulos, N. (2021). Determination of aortic characteristic impedance and total arterial compliance from regional pulse wave velocities using machine learning: An in-silico study. Frontiers in bioengineering and biotechnology, 9, 649866. https://doi.org/10.3389/fbioe.2021.649866
 
 **License**
 
